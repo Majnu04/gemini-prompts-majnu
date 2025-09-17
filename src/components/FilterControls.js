@@ -4,17 +4,17 @@ const FilterControls = ({ setSearchTerm, setCategory, category, searchTerm }) =>
   const categories = ['All', 'Men', 'Women', 'Couples'];
 
   return (
-    <div className="p-4 bg-gray-800 dark:bg-gray-700 flex flex-col sm:flex-row justify-between items-center gap-4">
+    <div className="p-4 bg-gray-900 border-b border-gray-800 flex flex-col sm:flex-row justify-between items-center gap-4">
       {/* Category Buttons */}
       <div className="flex flex-wrap gap-2">
         {categories.map((cat) => (
           <button
             key={cat}
             onClick={() => setCategory(cat)}
-            className={`px-4 py-2 rounded-lg font-medium transition-all duration-200 ${
+            className={`px-4 py-2 rounded-lg font-medium transition-all duration-200 border ${
               category === cat
-                ? 'bg-blue-600 text-white shadow-lg transform scale-105'
-                : 'bg-gray-700 text-gray-300 hover:bg-gray-600 hover:text-white'
+                ? 'bg-white text-black border-white shadow-lg transform scale-105'
+                : 'bg-transparent text-gray-300 border-gray-600 hover:bg-gray-800 hover:text-white hover:border-gray-500'
             }`}
           >
             {cat} Prompts
@@ -34,7 +34,7 @@ const FilterControls = ({ setSearchTerm, setCategory, category, searchTerm }) =>
           placeholder="Search prompts..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
-          className="pl-10 pr-4 py-2 bg-gray-700 dark:bg-gray-600 text-white placeholder-gray-400 rounded-lg border border-gray-600 focus:border-blue-500 focus:ring-2 focus:ring-blue-500 focus:outline-none transition-all duration-200 w-64"
+          className="pl-10 pr-4 py-2 bg-gray-800 text-white placeholder-gray-400 rounded-lg border border-gray-600 focus:border-white focus:ring-2 focus:ring-white focus:outline-none transition-all duration-200 w-64"
         />
       </div>
     </div>

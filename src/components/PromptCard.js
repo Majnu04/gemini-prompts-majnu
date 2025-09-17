@@ -32,35 +32,37 @@ const PromptCard = ({ prompt, updateTrendingCount, index }) => {
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5, delay: index * 0.1 }}
-      whileHover={{ scale: 1.03 }}
-      className="bg-gray-800 dark:bg-gray-700 rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300"
+      whileHover={{ scale: 1.02 }}
+      className="bg-gray-900 border border-gray-800 rounded-xl overflow-hidden shadow-lg hover:shadow-2xl hover:border-gray-700 transition-all duration-300"
     >
       {/* Image Container */}
-      <div className="relative h-48 overflow-hidden">
+      <div className="relative h-64 overflow-hidden">
         <img 
           src={prompt.image} 
           alt={prompt.title} 
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
           onError={(e) => {
             // Fallback to gradient if image fails to load
             e.target.style.display = 'none';
             e.target.nextSibling.style.display = 'flex';
           }}
         />
-        <div className="absolute inset-0 bg-gradient-to-br from-purple-400 to-blue-500 hidden items-center justify-center">
+        <div className="absolute inset-0 bg-gradient-to-br from-gray-800 to-gray-900 hidden items-center justify-center">
           <div className="text-white text-center p-4">
             <h3 className="text-lg font-bold mb-2">{prompt.title}</h3>
-            <span className="inline-block px-3 py-1 bg-black bg-opacity-30 rounded-full text-sm">
+            <span className="inline-block px-3 py-1 bg-black bg-opacity-50 rounded-full text-sm border border-gray-600">
               {prompt.category}
             </span>
           </div>
         </div>
         {/* Category Badge */}
         <div className="absolute top-3 right-3">
-          <span className="bg-blue-600 text-white px-2 py-1 rounded-full text-xs font-medium">
+          <span className="bg-black bg-opacity-80 text-white px-3 py-1 rounded-full text-xs font-medium border border-gray-600">
             {prompt.category}
           </span>
         </div>
+        {/* Overlay gradient */}
+        <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent opacity-60"></div>
       </div>
       
       {/* Content */}
@@ -69,7 +71,7 @@ const PromptCard = ({ prompt, updateTrendingCount, index }) => {
         <p className="text-gray-300 text-sm mb-4 line-clamp-2">{prompt.description}</p>
         
         {/* Prompt Text Preview */}
-        <div className="bg-gray-700 dark:bg-gray-600 rounded-lg p-3 mb-4">
+        <div className="bg-gray-800 border border-gray-700 rounded-lg p-3 mb-4">
           <p className="text-gray-400 text-xs mb-1">Prompt Preview:</p>
           <p className="text-gray-200 text-sm line-clamp-3">{prompt.promptText}</p>
         </div>
@@ -79,10 +81,10 @@ const PromptCard = ({ prompt, updateTrendingCount, index }) => {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
           onClick={copyPrompt}
-          className={`w-full py-2 px-4 rounded-lg font-medium transition-all duration-200 flex items-center justify-center gap-2 ${
+          className={`w-full py-2 px-4 rounded-lg font-medium transition-all duration-200 flex items-center justify-center gap-2 border ${
             copied
-              ? 'bg-green-600 text-white'
-              : 'bg-blue-600 hover:bg-blue-700 text-white hover:shadow-lg'
+              ? 'bg-green-600 text-white border-green-600'
+              : 'bg-white text-black border-white hover:bg-gray-100 hover:shadow-lg'
           }`}
         >
           {copied ? (

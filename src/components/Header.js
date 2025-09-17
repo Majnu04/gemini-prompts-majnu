@@ -2,13 +2,13 @@ import React from 'react';
 
 const Header = ({ toggleTheme, isDarkMode }) => {
   return (
-    <header className="bg-gray-900 dark:bg-gray-800 text-white p-4 flex items-center justify-between">
+    <header className="bg-black border-b border-gray-800 text-white p-4 flex items-center justify-between">
       <div className="flex items-center">
         {/* Logo SVG */}
-        <svg className="w-8 h-8 mr-3 text-blue-500" viewBox="0 0 24 24" fill="currentColor">
+        <svg className="w-8 h-8 mr-3 text-white" viewBox="0 0 24 24" fill="currentColor">
           <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
         </svg>
-        <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
+        <h1 className="text-2xl font-bold text-white">
           Gemini Prompts Vault
         </h1>
       </div>
@@ -16,7 +16,7 @@ const Header = ({ toggleTheme, isDarkMode }) => {
       {/* Theme Toggle Button */}
       <button
         onClick={toggleTheme}
-        className="p-2 rounded-lg bg-gray-700 hover:bg-gray-600 transition-colors duration-200"
+        className="p-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition-colors duration-200 border border-gray-700"
         aria-label="Toggle theme"
       >
         {isDarkMode ? (
