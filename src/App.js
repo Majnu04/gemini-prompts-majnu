@@ -122,20 +122,19 @@ function App() {
       </div>
       
       {/* Footer */}
-      <footer className="bg-gray-900 text-center py-8 mt-12">
+      <footer className="bg-gray-900 text-center py-6 mt-12">
         <div className="max-w-4xl mx-auto px-4">
-          <h3 className="text-lg font-semibold text-white mb-2">Gemini Prompts Vault</h3>
-          <p className="text-gray-300 text-sm">
-            Discover and copy AI prompts for your creative projects. Built with React and Tailwind CSS.
+          <p className="text-gray-400 text-sm">
+            Developed by{' '}
+            <a 
+              href="https://www.elitedigitalsolutions.tech/" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-white hover:text-gray-300 font-semibold transition-colors duration-200 underline decoration-gray-600 hover:decoration-white"
+            >
+              Elite Digitals
+            </a>
           </p>
-          <div className="mt-4 flex justify-center space-x-4">
-            <span className="text-gray-400 text-xs">
-              {prompts.length} Total Prompts
-            </span>
-            <span className="text-gray-400 text-xs">
-              {Object.values(trendingCounts).reduce((a, b) => a + b, 0)} Total Copies
-            </span>
-          </div>
         </div>
       </footer>
     </div>
