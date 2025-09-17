@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "title": "90s Saree by AI",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=1",
+    "description": "Classic 90s Bollywood-style saree portrait in natural sunlight.",
+    "promptText": "Convert, 4k HD realistic. A stunning portrait of a young Indian woman in a 90s red saree with natural lighting and wavy hair."
+  },
+  {
+    "id": 2,
+    "title": "Vintage Curly Saree",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=2",
+    "description": "Retro black-and-white saree photo with curly hairstyle.",
+    "promptText": "Create a retro vintage black-and-white image of a young woman in saree with curly hair, holding a flower and standing in windy weather."
+  },
+  {
+    "id": 3,
+    "title": "Radha Ji Look",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=3",
+    "description": "Divine Radha look with peacock feather.",
+    "promptText": "Generate a 4k HD realistic portrait of a woman styled as Radha Ji, wearing elegant saree and holding a peacock feather."
+  },
+  {
+    "id": 4,
+    "title": "Modern Casual Saree",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=4",
+    "description": "Trendy casual saree style with minimal jewelry.",
+    "promptText": "Convert a portrait into a 4k realistic modern casual saree look, minimal jewelry, and urban background."
+  },
+  {
+    "id": 5,
+    "title": "Royal Bridal Portrait",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=5",
+    "description": "Traditional Indian bridal look with heavy lehenga.",
+    "promptText": "Generate a 4k HD portrait of a bride in red lehenga, golden embroidery, and heavy jewelry standing in palace lighting."
+  },
+  {
+    "id": 6,
+    "title": "Office Professional Look",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=16",
+    "description": "Businesswoman in formal attire.",
+    "promptText": "Generate a 4k HD realistic portrait of a young woman in navy blue office suit, confident and smiling with laptop in hand."
+  },
+  {
+    "id": 7,
+    "title": "Bohemian Dress Style",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=17",
+    "description": "Bohemian chic outdoor portrait.",
+    "promptText": "Create a 4k HD bohemian portrait of a woman wearing maxi dress, floral patterns, with artistic background."
+  },
+  {
+    "id": 8,
+    "title": "Vintage Glamour",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=18",
+    "description": "Old Hollywood glamour portrait.",
+    "promptText": "Generate a sepia-toned portrait of a woman styled like 1950s Hollywood star with curls and vintage dress."
+  },
+  {
+    "id": 9,
+    "title": "College Casual",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=19",
+    "description": "Youthful modern college style.",
+    "promptText": "Create a 4k HD realistic portrait of a young woman in jeans, crop top, sneakers, standing near campus."
+  },
+  {
+    "id": 10,
+    "title": "Classical Dancer",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=20",
+    "description": "Bharatanatyam dancer in temple setting.",
+    "promptText": "Generate a 4k HD portrait of an Indian woman performing Bharatanatyam, full attire, temple background."
+  },
+  {
+    "id": 11,
+    "title": "Yoga Portrait",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=21",
+    "description": "Yoga posture at sunrise.",
+    "promptText": "Create a serene portrait of a woman in yoga pose near beach at sunrise."
+  },
+  {
+    "id": 12,
+    "title": "Party Glam",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=22",
+    "description": "Evening party look.",
+    "promptText": "Generate a 4k HD realistic image of a woman in sequin dress at a club with neon lighting."
+  },
+  {
+    "id": 13,
+    "title": "Winter Fashion",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=23",
+    "description": "Cozy winter style portrait.",
+    "promptText": "Create a portrait of a woman in wool coat, scarf, snow background."
+  },
+  {
+    "id": 14,
+    "title": "Summer Dress",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=24",
+    "description": "Light floral dress for summer.",
+    "promptText": "Generate a 4k HD portrait of a woman wearing floral summer dress, standing in garden."
+  },
+  {
+    "id": 15,
+    "title": "Ethnic Lehenga",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=25",
+    "description": "Bridal lehenga look with jewelry.",
+    "promptText": "Create a 4k HD portrait of a woman in lehenga, dupatta, traditional Indian jewelry."
+  },
+  {
+    "id": 16,
+    "title": "College Fest Look",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=26",
+    "description": "Trendy festival look.",
+    "promptText": "Generate a vibrant portrait of a college girl enjoying fest, casual fashion."
+  },
+  {
+    "id": 17,
+    "title": "Gothic Look",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=27",
+    "description": "Dark gothic portrait.",
+    "promptText": "Create a 4k HD gothic portrait of a woman in black dress with dark makeup."
+  },
+  {
+    "id": 18,
+    "title": "Bride in White",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=28",
+    "description": "Christian bridal look.",
+    "promptText": "Generate a 4k HD portrait of a woman in white wedding gown with veil."
+  },
+  {
+    "id": 19,
+    "title": "Sportswear Portrait",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=29",
+    "description": "Sporty athletic look.",
+    "promptText": "Create a portrait of a woman in sportswear, gym background, strong confident pose."
+  },
+  {
+    "id": 20,
+    "title": "Festival Saree Look",
+    "category": "Women",
+    "image": "https://picsum.photos/400/600?random=30",
+    "description": "Saree portrait for festivals.",
+    "promptText": "Generate a 4k HD portrait of a woman in silk saree with diya lamps for Diwali."
+  },
+  {
+    "id": 21,
+    "title": "Business Executive",
+    "category": "Men",
+    "image": "https://picsum.photos/400/600?random=31",
+    "description": "Professional business portrait.",
+    "promptText": "Generate a 4k HD portrait of a confident businessman in navy suit, office background, professional lighting."
+  },
+  {
+    "id": 22,
+    "title": "Casual Weekend",
+    "category": "Men",
+    "image": "https://picsum.photos/400/600?random=32",
+    "description": "Relaxed weekend style.",
+    "promptText": "Create a portrait of a man in casual jeans, henley shirt, coffee shop background, natural lighting."
+  },
+  {
+    "id": 23,
+    "title": "Traditional Kurta",
+    "category": "Men",
+    "image": "https://picsum.photos/400/600?random=33",
+    "description": "Indian traditional wear.",
+    "promptText": "Generate a 4k HD portrait of a man in white kurta pajama, traditional background, festive lighting."
+  },
+  {
+    "id": 24,
+    "title": "Romantic Date Night",
+    "category": "Couples",
+    "image": "https://picsum.photos/400/600?random=34",
+    "description": "Couple enjoying dinner.",
+    "promptText": "Create a romantic portrait of a couple at candlelit dinner, elegant restaurant, warm lighting."
+  },
+  {
+    "id": 25,
+    "title": "Beach Vacation",
+    "category": "Couples",
+    "image": "https://picsum.photos/400/600?random=35",
+    "description": "Couple on beach holiday.",
+    "promptText": "Generate a 4k HD image of a couple walking on beach at sunset, casual summer clothes, happy expressions."
+  },
+  {
+    "id": 26,
+    "title": "Wedding Portrait",
+    "category": "Couples",
+    "image": "https://picsum.photos/400/600?random=36",
+    "description": "Traditional wedding couple.",
+    "promptText": "Create a 4k HD portrait of an Indian wedding couple in traditional attire, palace background, golden lighting."
+  }
+]
