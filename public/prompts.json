@@ -19,7 +19,7 @@
     "id": 3,
     "title": "Radha Ji Look",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1506629905851-f6c0faadcade?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Radhaji%20Look.png",
     "description": "Divine Radha look with peacock feather.",
     "promptText": "Generate a 4k HD realistic portrait of a woman styled as Radha Ji, wearing elegant saree and holding a peacock feather."
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "title": "Modern Casual Saree",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Modern%20Casual%20Saree.png",
     "description": "Trendy casual saree style with minimal jewelry.",
     "promptText": "Convert a portrait into a 4k realistic modern casual saree look, minimal jewelry, and urban background."
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "title": "Royal Bridal Portrait",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Royal%20Bridal%20Portrait.png",
     "description": "Traditional Indian bridal look with heavy lehenga.",
     "promptText": "Generate a 4k HD portrait of a bride in red lehenga, golden embroidery, and heavy jewelry standing in palace lighting."
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "title": "Office Professional Look",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Office%20Professional%20%20Look.png",
     "description": "Businesswoman in formal attire.",
     "promptText": "Generate a 4k HD realistic portrait of a young woman in navy blue office suit, confident and smiling with laptop in hand."
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "title": "Bohemian Dress Style",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Bohemian%20Dress%20Style.png",
     "description": "Bohemian chic outdoor portrait.",
     "promptText": "Create a 4k HD bohemian portrait of a woman wearing maxi dress, floral patterns, with artistic background."
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "title": "College Casual",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/College%20Casual.png",
     "description": "Youthful modern college style.",
     "promptText": "Create a 4k HD realistic portrait of a young woman in jeans, crop top, sneakers, standing near campus."
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "title": "Classical Dancer",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Classical%20Dancer.png",
     "description": "Bharatanatyam dancer in temple setting.",
     "promptText": "Generate a 4k HD portrait of an Indian woman performing Bharatanatyam, full attire, temple background."
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "title": "Party Glam",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1509909756405-be0199881695?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Party%20Glam.png",
     "description": "Evening party look.",
     "promptText": "Generate a 4k HD realistic image of a woman in sequin dress at a club with neon lighting."
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "title": "Summer Dress",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1494790108755-2616c4c0b825?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Summer%20Dress.png",
     "description": "Light floral dress for summer.",
     "promptText": "Generate a 4k HD portrait of a woman wearing floral summer dress, standing in garden."
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "title": "Ethnic Lehenga",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Ethnic%20Lehanga.png",
     "description": "Bridal lehenga look with jewelry.",
     "promptText": "Create a 4k HD portrait of a woman in lehenga, dupatta, traditional Indian jewelry."
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "title": "Gothic Look",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1548142813-c348350df52b?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Gothic%20Look.png",
     "description": "Dark gothic portrait.",
     "promptText": "Create a 4k HD gothic portrait of a woman in black dress with dark makeup."
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "title": "Bride in White",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1465145498025-928c7a71cab9?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Bride%20in%20White.png",
     "description": "Christian bridal look.",
     "promptText": "Generate a 4k HD portrait of a woman in white wedding gown with veil."
   },
@@ -147,7 +147,7 @@
     "id": 19,
     "title": "Sportswear Portrait",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/SportsWare%20Portrait.png",
     "description": "Sporty athletic look.",
     "promptText": "Create a portrait of a woman in sportswear, gym background, strong confident pose."
   },
@@ -155,7 +155,7 @@
     "id": 20,
     "title": "Festival Saree Look",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1583391733956-6c78276477e1?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Festival%20Saree%20Look.png",
     "description": "Saree portrait for festivals.",
     "promptText": "Generate a 4k HD portrait of a woman in silk saree with diya lamps for Diwali."
   },
@@ -163,7 +163,7 @@
     "id": 21,
     "title": "Business Executive",
     "category": "Men",
-    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Business%20Executive.png",
     "description": "Professional business portrait.",
     "promptText": "Generate a 4k HD portrait of a confident businessman in navy suit, office background, professional lighting."
   },
@@ -171,7 +171,7 @@
     "id": 22,
     "title": "Casual Weekend",
     "category": "Men",
-    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Casual%20Weekend.png",
     "description": "Relaxed weekend style.",
     "promptText": "Create a portrait of a man in casual jeans, henley shirt, coffee shop background, natural lighting."
   },
@@ -187,7 +187,7 @@
     "id": 24,
     "title": "Romantic Date Night",
     "category": "Couples",
-    "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=400&h=600&fit=crop&crop=faces",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Romantic%20Date%20Night.png",
     "description": "Couple enjoying dinner.",
     "promptText": "Create a romantic portrait of a couple at candlelit dinner, elegant restaurant, warm lighting."
   },
@@ -195,7 +195,7 @@
     "id": 25,
     "title": "Beach Vacation",
     "category": "Couples",
-    "image": "https://images.unsplash.com/photo-1521377717531-51bbb33e3cb0?w=400&h=600&fit=crop&crop=faces",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Beach%20Vacation.png",
     "description": "Couple on beach holiday.",
     "promptText": "Generate a 4k HD image of a couple walking on beach at sunset, casual summer clothes, happy expressions."
   },

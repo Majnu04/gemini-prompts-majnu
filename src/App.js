@@ -138,7 +138,7 @@ function App() {
                   : 'text-black hover:text-gray-700 decoration-gray-400 hover:decoration-black'
               }`}
             >
-              Elite Digitals
+              Elite Digitals Solutions 
             </a>
           </p>
         </div>
