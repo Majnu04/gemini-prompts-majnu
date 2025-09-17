@@ -69,7 +69,7 @@ function App() {
   };
 
   return (
-    <div className="bg-black min-h-screen transition-colors duration-300">
+    <div className={`${isDarkMode ? 'bg-black' : 'bg-white'} min-h-screen transition-colors duration-300`}>
       <Helmet>
         <title>Gemini Prompts Vault - AI Image Generation Prompts</title>
         <meta name="description" content="Discover and copy high-quality AI prompts for image generation. Perfect for Gemini, DALL-E, Midjourney, and other AI tools." />
@@ -91,46 +91,52 @@ function App() {
       />
       
       {/* Results count */}
-      <div className="px-4 py-2 text-gray-300 text-sm">
+      <div className={`px-4 sm:px-6 py-2 text-sm ${isDarkMode ? 'text-gray-300' : 'text-gray-600'}`}>
         Showing {filteredPrompts.length} of {prompts.length} prompts
         {searchTerm && ` for "${searchTerm}"`}
         {category !== 'All' && ` in ${category}`}
       </div>
       
       {/* Prompts Grid */}
-      <div className="p-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-        {filteredPrompts.length > 0 ? (
-          filteredPrompts.map((prompt, index) => (
-            <PromptCard 
-              key={prompt.id} 
-              prompt={prompt} 
-              index={index}
-              updateTrendingCount={updateTrendingCount}
-            />
-          ))
-        ) : (
-          <div className="col-span-full text-center py-12">
-            <div className="text-gray-300 text-xl mb-2">No prompts found</div>
-            <p className="text-gray-400">
-              {searchTerm 
-                ? `No results for "${searchTerm}". Try a different search term.`
-                : 'No prompts available for this category.'
-              }
-            </p>
-          </div>
-        )}
+      <div className="px-3 sm:px-4 lg:px-6 py-4 sm:py-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6 max-w-7xl mx-auto">
+          {filteredPrompts.length > 0 ? (
+            filteredPrompts.map((prompt, index) => (
+              <PromptCard 
+                key={prompt.id} 
+                prompt={prompt} 
+                index={index}
+                updateTrendingCount={updateTrendingCount}
+              />
+            ))
+          ) : (
+            <div className="col-span-full text-center py-8 sm:py-12">
+              <div className={`text-lg sm:text-xl mb-2 ${isDarkMode ? 'text-gray-300' : 'text-gray-700'}`}>No prompts found</div>
+              <p className={`text-sm sm:text-base ${isDarkMode ? 'text-gray-400' : 'text-gray-500'}`}>
+                {searchTerm 
+                  ? `No results for "${searchTerm}". Try a different search term.`
+                  : 'No prompts available for this category.'
+                }
+              </p>
+            </div>
+          )}
+        </div>
       </div>
       
       {/* Footer */}
-      <footer className="bg-gray-900 text-center py-6 mt-12">
+      <footer className={`${isDarkMode ? 'bg-gray-900' : 'bg-gray-100'} text-center py-4 sm:py-6 mt-8 sm:mt-12`}>
         <div className="max-w-4xl mx-auto px-4">
-          <p className="text-gray-400 text-sm">
+          <p className={`text-xs sm:text-sm ${isDarkMode ? 'text-gray-400' : 'text-gray-600'}`}>
             Developed by{' '}
             <a 
               href="https://www.elitedigitalsolutions.tech/" 
               target="_blank" 
               rel="noopener noreferrer"
-              className="text-white hover:text-gray-300 font-semibold transition-colors duration-200 underline decoration-gray-600 hover:decoration-white"
+              className={`font-semibold transition-colors duration-200 underline touch-manipulation ${
+                isDarkMode 
+                  ? 'text-white hover:text-gray-300 decoration-gray-600 hover:decoration-white' 
+                  : 'text-black hover:text-gray-700 decoration-gray-400 hover:decoration-black'
+              }`}
             >
               Elite Digitals
             </a>
