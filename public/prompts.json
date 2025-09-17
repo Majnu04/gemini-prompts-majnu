@@ -11,7 +11,7 @@
     "id": 2,
     "title": "Vintage Curly Saree",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1594736797933-d0201ba2fe65?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Vintage%20Curly%20Saree.png",
     "description": "Retro black-and-white saree photo with curly hairstyle.",
     "promptText": "Create a retro vintage black-and-white image of a young woman in saree with curly hair, holding a flower and standing in windy weather."
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "title": "Vintage Glamour",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1488716820095-cbe80883c496?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Vintage%20Glamour.png",
     "description": "Old Hollywood glamour portrait.",
     "promptText": "Generate a sepia-toned portrait of a woman styled like 1950s Hollywood star with curls and vintage dress."
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "title": "Yoga Portrait",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Yoga%20Portrait.png",
     "description": "Yoga posture at sunrise.",
     "promptText": "Create a serene portrait of a woman in yoga pose near beach at sunrise."
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "title": "Winter Fashion",
     "category": "Women",
-    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Winter%20Fashion.png",
     "description": "Cozy winter style portrait.",
     "promptText": "Create a portrait of a woman in wool coat, scarf, snow background."
   },
@@ -179,7 +179,7 @@
     "id": 23,
     "title": "Traditional Kurta",
     "category": "Men",
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop&crop=face",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Traditional%20Kurta.png",
     "description": "Indian traditional wear.",
     "promptText": "Generate a 4k HD portrait of a man in white kurta pajama, traditional background, festive lighting."
   },
@@ -203,7 +203,7 @@
     "id": 26,
     "title": "Wedding Portrait",
     "category": "Couples",
-    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=400&h=600&fit=crop&crop=faces",
+    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Wedding%20Portrait.png",
     "description": "Traditional wedding couple.",
     "promptText": "Create a 4k HD portrait of an Indian wedding couple in traditional attire, palace background, golden lighting."
   }
