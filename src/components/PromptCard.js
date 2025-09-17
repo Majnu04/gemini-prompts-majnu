@@ -33,14 +33,16 @@ const PromptCard = ({ prompt, updateTrendingCount, index }) => {
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5, delay: index * 0.1 }}
       whileHover={{ scale: 1.02 }}
-      className="bg-gray-900 dark:bg-white border border-gray-800 dark:border-gray-200 rounded-xl overflow-hidden shadow-lg hover:shadow-2xl hover:border-gray-700 dark:hover:border-gray-300 transition-all duration-300 mx-auto max-w-sm sm:max-w-none"
+      className="bg-gray-900 dark:bg-white border border-gray-800 dark:border-gray-200 rounded-xl overflow-hidden shadow-lg hover:shadow-2xl hover:border-gray-700 dark:hover:border-gray-300 transition-all duration-300 w-full prompt-card"
     >
       {/* Image Container */}
-      <div className="relative h-48 sm:h-56 md:h-64 overflow-hidden">
+      <div className="relative h-64 sm:h-64 md:h-72 lg:h-64 overflow-hidden">
         <img 
           src={prompt.image} 
           alt={prompt.title} 
           className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
+          style={{ objectFit: 'cover', objectPosition: 'center' }}
+          loading="lazy"
           onError={(e) => {
             // Fallback to gradient if image fails to load
             e.target.style.display = 'none';
@@ -56,13 +58,13 @@ const PromptCard = ({ prompt, updateTrendingCount, index }) => {
           </div>
         </div>
         {/* Category Badge */}
-        <div className="absolute top-2 sm:top-3 right-2 sm:right-3">
-          <span className="bg-black dark:bg-white bg-opacity-80 dark:bg-opacity-90 text-white dark:text-black px-2 py-1 sm:px-3 sm:py-1 rounded-full text-xs font-medium border border-gray-600 dark:border-gray-400">
+        <div className="absolute top-3 right-3">
+          <span className="bg-black dark:bg-white bg-opacity-90 dark:bg-opacity-90 text-white dark:text-black px-3 py-1 rounded-full text-xs font-medium border border-gray-600 dark:border-gray-400 backdrop-blur-sm">
             {prompt.category}
           </span>
         </div>
-        {/* Overlay gradient */}
-        <div className="absolute inset-0 bg-gradient-to-t from-black dark:from-white via-transparent to-transparent opacity-60 dark:opacity-40"></div>
+        {/* Subtle overlay gradient for better text readability */}
+        <div className="absolute inset-0 bg-gradient-to-t from-black/30 dark:from-white/20 via-transparent to-transparent"></div>
       </div>
       
       {/* Content */}

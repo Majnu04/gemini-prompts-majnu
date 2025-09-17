@@ -17,6 +17,31 @@
   overflow: hidden;
 }
 
+/* Enhanced image rendering for better quality */
+.prompt-image {
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+}
+
+/* Ensure images fill completely */
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Mobile image optimization */
+@media (max-width: 640px) {
+  .prompt-card img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    object-position: center !important;
+  }
+}
+
 @layer utilities {
   .line-clamp-2 {
     display: -webkit-box;
@@ -30,5 +55,12 @@
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
+  }
+  
+  .image-optimize {
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    backface-visibility: hidden;
+    transform: translateZ(0);
   }
 }

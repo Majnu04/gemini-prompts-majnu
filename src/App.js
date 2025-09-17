@@ -98,8 +98,8 @@ function App() {
       </div>
       
       {/* Prompts Grid */}
-      <div className="px-3 sm:px-4 lg:px-6 py-4 sm:py-6">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6 max-w-7xl mx-auto">
+      <div className="px-4 sm:px-4 lg:px-6 py-4 sm:py-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-4 lg:gap-6 max-w-7xl mx-auto">
           {filteredPrompts.length > 0 ? (
             filteredPrompts.map((prompt, index) => (
               <PromptCard 
