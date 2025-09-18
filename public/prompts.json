@@ -208,195 +208,523 @@
     "promptText": "Create a 4k HD portrait of an Indian wedding couple in traditional attire, palace background, golden lighting."
   },
   {
-    "id": 27,
-    "title": "90s Bollywood Saree",
-    "category": "Women",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/90s%20Bollywood%20Saree.png",
-    "description": "Classic 90s Bollywood-style saree portrait preserving facial features.",
-    "promptText": "Convert, 4k HD realistic, A stunning portrait of a young Indian woman (with the same face as the uploaded reference image, preserving 100% facial features without alteration) with long, dark, wavy hair cascading over her shoulders."
-  },
-  {
-    "id": 28,
-    "title": "Retro Rainy Vintage",
-    "category": "Women",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Retro%20Rainy%20Vintage.png",
-    "description": "90s curly wet hair baddie with vintage rainy aesthetic.",
-    "promptText": "Create a retro vintage rainy, grainy but white image of the reference picture—it must feel like a 90s curly wet hair baddie with a small flower tuck visible into her curls and romanticizing windy and romantic vibes."
-  },
-  {
-    "id": 29,
-    "title": "Radha Divine Look",
-    "category": "Women",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Radha%20Divine%20Look.png",
-    "description": "Converting into Radha with translucent elegant attire.",
-    "promptText": "Convert, 4k HD realistic, A stunning portrait of a young Indian woman converting her into radha with long, dark, wavy hair cascading over her shoulders. She is wearing a translucent, elegant radha ji outfit with traditional jewelry."
-  },
-  {
-    "id": 30,
-    "title": "Hindu Goddess Attire",
-    "category": "Women",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Hindu%20Goddess%20Attire.png",
-    "description": "Ancient Hindu goddess type attire and atmosphere.",
-    "promptText": "Create a realistic vintage grainy but bright image of the reference picture but in an ancient hindu goddess type of attire and atmosphere. Refer to Hindu mythological females figures and add details like traditional jewelry and divine aura."
-  },
-  {
-    "id": 31,
-    "title": "Yellow Chiffon Saree",
-    "category": "Women",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Yellow%20Chiffon%20Saree.png",
-    "description": "Romantic 90s Indian movie aesthetic in yellow chiffon.",
-    "promptText": "A retro, vintage, and grainy photograph of a girl with a romantic, dreamy aesthetic, reminiscent of a 90s Indian movie. The girl is draped in a plain, yellow chiffon saree, wearing small bindi, and jhumkas with a soft, nostalgic glow."
-  },
-  {
-    "id": 32,
-    "title": "Navratri Red Ghagra",
-    "category": "Women",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Navratri%20Red%20Ghagra.png",
-    "description": "Perfect Navratri dress red ghagra choli Ramleela style.",
-    "promptText": "In a perfect Navratri dress red color ghagra choli with black dupatta Pinteresty aesthetic look. It must feel like a nagada baje song deepika character movie ramleela with small flower tucked visibly in hair."
-  },
-  {
-    "id": 33,
-    "title": "Sunlit Yellow Saree",
-    "category": "Women",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Sunlit%20Yellow%20Saree.png",
-    "description": "Soft sunlit portrait in flowing yellow saree with floral embroidery.",
-    "promptText": "Create A soft, sunlit portrait of My self [Uploaded Face] wearing a flowing sheer yellow saree with delicate floral embroidery. She sits gracefully against a plain wall, bathed in warm natural light with ethereal glow."
-  },
-  {
-    "id": 34,
-    "title": "Red Wine Retro Shirt",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Red%20Wine%20Retro%20Shirt.png",
-    "description": "Retro vintage aesthetic in red wine shirt with rose.",
-    "promptText": "Create a retro vintage grainy but bright image of the reference picture but draped in a perfect red wine color Pinteresty aesthetic retro shirt with white pant and holding a rose flower in hands. It must feel like a 90s movie aesthetic."
-  },
-  {
-    "id": 35,
-    "title": "Subway Black Portrait",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Subway%20Black%20Portrait.png",
-    "description": "Black-and-white portrait with subway train backdrop.",
-    "promptText": "Create a black-and-white portrait of a young man standing in front of a moving subway train. He is wearing a textured black sweater and a silver cross necklace. His hair is medium-length and wavy, with dramatic urban lighting."
-  },
-  {
-    "id": 36,
-    "title": "Pampas Field Portrait",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Pampas%20Field%20Portrait.png",
-    "description": "Dreamy cinematic portrait in tall grass field with pampas.",
-    "promptText": "Dreamy cinematic portrait of a young stylish young man standing in a tall grass field filled with soft white pampas. Outfit: a white button up loose fit shirt with sleeves slightly rolled and white trousers, creating ethereal outdoor mood."
-  },
-  {
-    "id": 37,
-    "title": "Deep Blue Blazer",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Deep%20Blue%20Blazer.png",
-    "description": "Retro vintage in deep-blue cotton blazer with pinstripes.",
-    "promptText": "Create a retro, vintage-inspired image - grainy yet bright - based on the reference picture. The boy should be dressed in a perfectly tailored deep-blue cotton blazer suit with subtle white pinstripes, exuding classic elegance."
-  },
-  {
-    "id": 38,
-    "title": "Music Headphones Portrait",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Music%20Headphones%20Portrait.png",
-    "description": "Surreal black and white cinematic portrait with headphones.",
-    "promptText": "A surreal black and white cinematic portrait of a young man (same as reference photo) wearing headphones, eyes closed, lost in music. He is standing in a dimly lit room with a stack of books on a table, creating artistic atmosphere."
-  },
-  {
-    "id": 39,
-    "title": "Light Maroon Retro",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Light%20Maroon%20Retro.png",
-    "description": "Retro vintage in light maroon shirt with sun rays.",
-    "promptText": "Create a retro, vintage-inspired image - grainy yet bright with little sun rays based on the reference picture. The boy should be wearing a light maroon shirt, paired with plated off white pants style, creating warm nostalgic vibes."
-  },
-  {
-    "id": 40,
-    "title": "Brown Flower Print",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Brown%20Flower%20Print.png",
-    "description": "White shirt with brown flower prints and beige pants.",
-    "promptText": "Create a retro, vintage-inspired image - grainy yet bright - based on the reference picture. The boy should be wearing a white shirt with small brown flower prints, paired with plated beige pants style, creating casual vintage aesthetic."
-  },
-  {
-    "id": 41,
-    "title": "Hands in Pockets Authority",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Hands%20Pockets%20Authority.png",
-    "description": "Hyper-realistic cinematic editorial portrait with relaxed authority.",
-    "promptText": "Hands in Pockets - Relaxed Authority. A hyper-realistic cinematic editorial portrait of the uploaded person (preserve face 100%). He stands tall in a dark moody studio, surrounded by soft drifting smoke under dramatic spotlight creating powerful presence."
-  },
-  {
-    "id": 42,
-    "title": "Bar Counter Scene",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Bar%20Counter%20Scene.png",
-    "description": "Stylish man at dimly lit bar with glamorous atmosphere.",
-    "promptText": "Hyper-realistic, cinematic image of a stylish young Indian man (match the face 100% to the uploaded image) sitting at a dimly lit bar counter with a drink in hand. A glamorous bar dancer in a sparkling dress performs in the background with moody lighting."
-  },
-  {
-    "id": 43,
-    "title": "Vintage Suitcase Lean",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Vintage%20Suitcase%20Lean.png",
-    "description": "Stylish man leaning against vintage suitcase with sharp features.",
-    "promptText": "A stylish young man, facial will be 100% same as the reference image, with sharp features and dark tousled hair parted naturally. He is leaning casually against a vintage suitcase. He wears a textured blazer with classic vintage travel aesthetic."
-  },
-  {
-    "id": 44,
-    "title": "Luxury Lounge Cigar",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Luxury%20Lounge%20Cigar.png",
-    "description": "Stylish man in luxurious lounge with cigar and whiskey.",
-    "promptText": "A stylish man in a dark modern suit with gold watch and bracelet, sitting in a luxurious lounge. He lights a cigar with a match, smoke rising. On the table: silver ice bucket with Jack Daniel's, whiskey glass, creating sophisticated ambiance."
-  },
-  {
-    "id": 45,
-    "title": "Breaking Monitor Screen",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Breaking%20Monitor%20Screen.png",
-    "description": "Ultra-realistic surreal art of man breaking out from computer screen.",
-    "promptText": "Ultra-realistic surreal digital art of a man (foto uploaded) dramatically breaking out from a computer monitor screen with natural movement. The cracked glass shatters outward with sparks and smoke, arms extended forward, creating dynamic sci-fi effect."
-  },
-  {
-    "id": 46,
-    "title": "Red Supra Night",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Red%20Supra%20Night.png",
-    "description": "Casual lean against modified red Supra MK4 at night.",
-    "promptText": "With the person in image, casually leaning against a modified red supra mk4, on a quiet urban street at night. The street is wet and reflective, illuminated by neon and street lights, giving a moody, cinematic car culture vibe."
-  },
-  {
-    "id": 47,
-    "title": "Beach Café Portrait",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Beach%20Cafe%20Portrait.png",
-    "description": "Stylish outdoor café near beach with palm trees.",
-    "promptText": "A realistic cinematic photo of the uploaded person sitting at a stylish outdoor café near the beach, palm trees in the background, reflections on large glass windows, relaxed modern vibe creating tropical leisure atmosphere."
-  },
-  {
-    "id": 48,
-    "title": "Fisheye Lens Effect",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Fisheye%20Lens%20Effect.png",
-    "description": "Creative fisheye lens effect with dramatic curved perspective.",
-    "promptText": "A creative photo, featuring an ultra-wide fisheye lens effect, creates a dramatic perspective with curved distortion throughout the composition. A man (photo uploaded), tall and well-built, stands in the center with artistic wide-angle distortion."
-  },
-  {
-    "id": 49,
-    "title": "Brown Denim Vintage",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Brown%20Denim%20Vintage.png",
-    "description": "Retro vintage in brown with blue Levi's denim outfit.",
-    "promptText": "Create a retro vintage grainy but bright image of the reference picture but draped in a perfect brown color Pinteresty. Wearing blue denim Levi's jeans, blue denim Levi's jacket with white sandow. It must feel like a 90s aesthetic with vintage vibes."
-  },
-  {
-    "id": 50,
-    "title": "Convertible Car Look",
-    "category": "Men",
-    "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Convertible%20Car%20Look.png",
-    "description": "Man in convertible car with blue shirt and casual style.",
-    "promptText": "A man sitting in a convertible car, looking away from the camera, wearing a blue shirt and white jeans, with a beard and a mustache, creating relaxed automotive lifestyle portrait with natural outdoor lighting."
-  }
+        "id": 27,
+        "title": "Serene in Saree",
+        "category": "Women",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Serene%20in%20Saree.png",
+        "description": "Stunning 4k HD realistic portrait of a young Indian woman in an elegant red saree.",
+        "promptText": "Convert, 4k HD realistic, A stunning portrait of a young Indian woman (with the same face as the uploaded reference image, preserving 100% facial features without alteration) with long, dark, wavy hair cascading over her shoulders. She is wearing a translucent, elegant red saree draped over one shoulder, revealing a fitted blouse underneath. White flowers are tucked behind her right ear. She is looking slightly to her right, with a soft, serene expression. The background is a plain, warm-toned wall, illuminated by a warm light source from the right, creating a distinct, soft-edged shadow of her profile and hair on the wall behind her. The overall mood is retro and artistic."
+    },
+    {
+        "id": 28,
+        "title": "90s Rainy Day Dream",
+        "category": "Women",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/90s%20Rainy%20Day%20Dream.png",
+        "description": "Retro vintage rainy, grainy image of a woman with a 90s baddie aesthetic.",
+        "promptText": "Create a retro vintage rainy, grainy but white image of the reference picture—it must feel like a 90s curly wet hair baddie with a small flower tuck visible into her curls and romanticizing windy and rainy environment. The girl is standing with eyes closed and sassy look creating a mysterious and artistic atmosphere where the lighting is warm with golden tones of evoking a sunset. The background is minimalist and slightly textured; the expression on her face is moody, calm yet happy and introspective. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 29,
+        "title": "Radha's Grace",
+        "category": "Women",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Radha's%20Grace.png",
+        "description": "A 4k HD realistic portrait of a young Indian woman transformed into Radha.",
+        "promptText": "Convert, 4k HD realistic, A stunning portrait of a young Indian woman converting her into radha with long, dark, wavy hair cascading over her shoulders. She is wearing a translucent, elegant radha ji dress draped over one shoulder, revealing a fitted blouse with simple elegant heavy lehenga. Flowers are tucked as a jewellery. She is looking slightly to her right, with a soft, serene expression. I want same face as I uploaded no alternation 100 percent same. The background is a plain, blackish & bluish-toned wall, illuminated by a warm light source from the right, creating a distinct, soft-edged shadow of krishna ji profile and hair on the wall behind her. The overall mood is retro and artistic. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 30,
+        "title": "Ancient Goddess",
+        "category": "Women",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Ancient%20Goddess.png",
+        "description": "A realistic vintage grainy image of a woman in ancient Hindu goddess attire.",
+        "promptText": "Create a realistic vintage grainy but bright image of the reference picture but in an ancient hindu goddess type of attire and atmosphere. Refer to Hindu mythological females figures and add details like Long black hair and serene background. The goddess is standing amidst a cinematic surrounding with scenic views giving her presence a mysterious yet artistic edge. Define her body with flowy silhouette and sheer fabric. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 31,
+        "title": "Yellow Saree in Wind",
+        "category": "Women",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Yellow%20Saree%20in%20Wind.png",
+        "description": "A retro, vintage photograph of a girl in a yellow chiffon saree, reminiscent of a 90s Indian movie.",
+        "promptText": "A retro, vintage, and grainy photograph of a girl with a romantic, dreamy aesthetic, reminiscent of a 90s Indian movie. The girl is draped in a plain, yellow chiffon saree, wearing small bindi, and jhumke in the ears, with ring and bracelet in hand, and her dark brown, wavy hair is flowing naturally in the wind, with a single, small, delicate pink flower tucked visibly into her curls. She is standing against a solid wall with deep shadows and dramatic contrast. The lighting is warm and infused with golden-hour tones, creating a nostalgic atmosphere. Her expressions are calm, and introspective, yet happy. The image has a slightly textured, minimalist background to keep the focus on her face. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 32,
+        "title": "Navratri Belle",
+        "category": "Women",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Navratri%20Belle.png",
+        "description": "A woman in a red ghagra choli with a Ramleela-inspired aesthetic.",
+        "promptText": "In a perfect Navratri dress red color ghagra choli with black dupatta Pinteresty aesthetic look. It must feel like a nagada baje song deepika character movie ramleela with small flower tucked visibly into her curls and romanticising windy environment. The girl is standing against a solid wall deep shadows and contrast drama, creating a mysterious and artistic atmosphere where the lighting is warm with a golden tones of evoking a sunset or golden hour glow. The background is minimalist and slightly textured the expression on her face is moody, calm yet happy and introspective. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 33,
+        "title": "Sunflower Serenity",
+        "category": "Women",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Sunflower%20Serenity.png",
+        "description": "A soft, sunlit portrait of a woman in a sheer yellow saree holding a bouquet of sunflowers.",
+        "promptText": "Create A soft, sunlit portrait of My self [Uploaded Face] wearing a flowing sheer yellow saree with delicate floral embroidery. She sits gracefully against a plain wall, bathed in warm natural light with a triangular patch of sunlight casting artistic shadows. She holds a vibrant bouquet of sunflowers close to her chest, and a small white flower is tucked behind her ear. Her gentle expression, loose hair strands moving slightly, and the dreamy golden glow create a serene, poetic, and romantic, her face should match 100% with uploaded reference. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 34,
+        "title": "Retro Rose Romance",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Retro%20Rose%20Romance.png",
+        "description": "Retro vintage image of a man in a red wine colored shirt holding a rose.",
+        "promptText": "Create a retro vintage grainy but bright image of the reference picture but draped in a perfect red wine color Pinteresty aesthetic retro shirt with white pant and holding a rose flower in hands. It must feel like a 90s movie and romanticising windy environment. The boy is standing against a solid wall deep shadows and contrast drama, creating a mysterious and artistic atmosphere where the lighting is warm with a golden tones of evoking a sunset or golden hour glow. The background is minimalist and slightly textured. The expression on her face is moody, calm yet happy and introspective. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 35,
+        "title": "Subway Motion",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Subway%20Motion.png",
+        "description": "A black-and-white portrait of a young man in front of a moving subway train.",
+        "promptText": "Create a black-and-white portrait of a young man standing in front of a moving subway train. He is wearing a textured black sweater and a silver cross necklace. His hair is medium-length and wavy, and his skin is fair and flawless. The lighting is soft but focused, highlighting his intense, serious expression. He stands centered, facing the camera with one hand held across his chest. The train is blurred in motion behind him for a dramatic effect. Maintain a moody, cinematic tone. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 36,
+        "title": "Pampas Field Dream",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Pampas%20Field%20Dream.png",
+        "description": "Dreamy cinematic portrait of a young man in a tall grass field with soft white pampas.",
+        "promptText": "Dreamy cinematic portrait of a young stylish young man standing in a tall grass field filled with soft white pampas. Outfit: a white button up loose fit shirt with sleeves slightly rolled and white trousers. Pose: standing naturally, body facing forward, head slightly tilted down, eyes looking softly downward with a calm and thoughtful expression. One hand holding a pampas flower gently in front, the other hand casually in his pocket. Background: softly blurred white pampas flower glowing in sunlight—dreamy, bright atmosphere. Camera angle: medium shot from the front at eye level and wide angle and full side frame. Style: cinematic, soft tones, pastel colours, for a glowing effect, not overly sharp, film-like mood. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 37,
+        "title": "Vintage Blazer & Book",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Vintage%20Blazar%20&%20Book.png",
+        "description": "Retro, vintage-inspired image of a boy in a deep-blue blazer suit reading a book.",
+        "promptText": "Create a retro, vintage-inspired image - grainy yet bright - based on the reference picture. The boy should be dressed in a perfectly tailored deep-blue cotton blazer suit with subtle white pinstripes, paired with a crisp white shirt (sleeves slightly rolled up), styled in a Pinterest-inspired aesthetic. The vibe must capture the essence of a 90s movie dark-brown-haired hero, with silky, slightly wind-tousled hair and a small flower tucked casually behind his ear, enhanced by a windy, romantic atmosphere. He is standing outdoors as a few leaves blow in the air, wearing polished brown leather shoes that add a touch of timeless sophistication. Dramatic contrasts add mystery and artistry to the scene, creating a moody yet enchanting cinematic effect. His pose should suggest that he is reading a book, adding an intellectual, brooding charm to the overall scene. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 38,
+        "title": "Musical Dreamscape",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Musical%20Dreamscape.png",
+        "description": "A surreal black and white cinematic portrait of a young man lost in music.",
+        "promptText": "A surreal black and white cinematic portrait of a young man (same as reference photo) wearing headphones, eyes closed, lost in music. He is standing in a dimly lit room with a stack of books on a table beside him. Papers and books float around in mid-air, creating a dreamy motion blur effect. The lighting is dramatic, soft glow on his face, highlighting his relaxed expression. His shirt is loose and open, adding to the moody artistic vibe. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 39,
+        "title": "Streetlight Reader",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Streetlight%20Reader.png",
+        "description": "Retro, vintage-inspired image of a boy in a maroon shirt reading a book under a streetlight.",
+        "promptText": "Create a retro, vintage-inspired image - grainy yet bright with little sun rays based on the reference picture. The boy should be wearing a light maroon shirt, paired with plated off white pants styled in a Pinterest-inspired aesthetic. The vibe must capture the essence of a 90s movie dark-brown-haired baddie, hair waving by a windy, romantic atmosphere. Standing under the aesthetic street light and reading book as a few leaves blow in the air, while dramatic contrasts add mystery and artistry to the scene, creating a moody yet enchanting. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 40,
+        "title": "Bench Contemplation",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Bench%20Contemplation.png",
+        "description": "Retro, vintage-inspired image of a boy in a floral shirt sitting on a wooden bench.",
+        "promptText": "Create a retro, vintage-inspired image - grainy yet bright - based on the reference picture. The boy should be wearing a white shirt with small brown flower prints, paired with plated beige pants styled in a Pinterest-inspired aesthetic. The vibe must capture the essence of a 90s movie dark-brown-haired baddie, hair waving by a windy, romantic atmosphere. He is sitting on a wooden bench as a few leaves blow in the air, while dramatic contrasts add mystery and artistry to the scene, creating a moody yet enchanting. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 41,
+        "title": "Hands in Pockets Authority",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Hands%20in%20Pockets%20Authority.png",
+        "description": "Hyper-realistic cinematic editorial portrait with relaxed authority.",
+        "promptText": "Hands in Pockets - Relaxed Authority. A hyper-realistic cinematic editorial portrait of the uploaded person (preserve face 100%). He stands tall in a dark moody studio, surrounded by soft drifting smoke under a dramatic spotlight. Outfit: Oversized slate-blue luxury suit with wide-leg trousers, paired with slightly unbuttoned white silk shirt. Both hands tucked casually in pockets, shoulders relaxed, confident expression, head tilted slightly to left. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 42,
+        "title": "Bar Counter Scene",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Bar%20Counter%20Scene.png",
+        "description": "Stylish man at dimly lit bar with glamorous atmosphere.",
+        "promptText": "Hyper-realistic, cinematic image of a stylish young Indian man (match the face 100% to the uploaded image) sitting at a dimly lit bar counter with a drink in hand. A glamorous bar dancer in a sparkling outfit performs near him, her graceful movements and confident expression capturing his attention. The warm, moody lighting reflects off polished wooden surfaces, neon signs glow in the background, and the scene radiates an alluring, dramatic nightlife vibe. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 43,
+        "title": "Vintage Suitcase Lean",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Vintage%20Suitcase%20Lean.png",
+        "description": "Stylish man leaning against vintage suitcase with sharp features.",
+        "promptText": "A stylish young man, facial will be 100% same as the reference image, with sharp features and dark tousled hair parted naturally. He is leaning casually against a vintage suitcase. He wears a textured brown blazer over an open-collar dark brown shirt, slightly unbuttoned at the top, paired with high-waisted light beige pleated trousers and a dark belt. The aesthetic is elegant and retro-inspired, with earthy tones. Minimalistic indoor background, cinematic warm natural lighting. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 44,
+        "title": "Luxury Lounge Cigar",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Luxury%20Lounge%20Cigar.png",
+        "description": "Stylish man in luxurious lounge with cigar and whiskey.",
+        "promptText": "A stylish man in a dark modern suit with gold watch and bracelet, sitting in a luxurious lounge. He lights a cigar with a match, smoke rising. On the table: silver ice bucket with Jack Daniel's, whiskey glasses, hookah, and ice cubes. Rich wooden walls, velvet sofas, dark cinematic lighting with smoky atmosphere - confident mafia boss vibe. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 45,
+        "title": "Breaking Monitor Screen",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Breaking%20Monitor%20Screen.png",
+        "description": "Ultra-realistic surreal art of man breaking out from computer screen.",
+        "promptText": "Ultra-realistic surreal digital art of a man (foto uploaded) dramatically breaking out from a computer monitor screen with natural movement. The cracked glass shatters outward with sparks and smoke, as if the virtual world collides with reality. The man, wearing glasses, a black shirt, ripped skinny jeans, and white sneakers, steps onto a physical keyboard with shards of glass scattered around. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 46,
+        "title": "Red Supra Night",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Red%20Supra%20Night.png",
+        "description": "Casual lean against modified red Supra MK4 at night.",
+        "promptText": "With the person in image, casually leaning against a modified red supra mk4, on a quiet urban street at night. The street is wet and reflective, illuminated by neon and street lights, giving a moody, cinematic vibe. He wears a dark button-up shirt, loose blue jeans, and black Vans sneakers. The car's headlights glow. Shot from above with a dramatic angle, capturing both the car's detail and the reflective road. Inspired by Fast & Furious 2. Size 3:4. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 47,
+        "title": "Beachside Café",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/BeachSide%20Cafe.png",
+        "description": "A realistic cinematic photo of a person at a stylish outdoor café near the beach.",
+        "promptText": "A realistic cinematic photo of the uploaded person sitting at a stylish outdoor café near the beach, palm trees in the background, reflections on large glass windows, relaxed modern vibe. The person is wearing casual stylish clothes (dark sweater or t-shirt, jeans, sunglasses), sitting comfortably on a chair holding a refreshing drink with mint and ice. Natural daylight, aesthetic cine tones, high quality, professional lifestyle photography, beach café ambiance. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 48,
+        "title": "Urban Fisheye",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Urban%20Fisheye.png",
+        "description": "A creative photo with an ultra-wide fisheye lens effect of a man in a modern urban area.",
+        "promptText": "A creative photo, featuring an ultra-wide fisheye lens effect, creates a dramatic perspective with curved distortion throughout the composition. A man (photo uploaded), tall and well-built, stands in the middle of a modern urban area in an expressive pose. His feet are firmly planted on the gray granite floor, wearing white sneakers that stand out in the foreground. He wears black jeans, a grey long-sleeved shirt. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 49,
+        "title": "90s Denim Look",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/90s%20Denim%20Look.png",
+        "description": "Retro vintage image of a man in a 90s-inspired denim outfit.",
+        "promptText": "Create a retro vintage grainy but bright image of the reference picture but draped in a perfect brown color Pinteresty. Wearing blue denim Levi's jeans, blue denim Levi's jacket with white sandow. It must feel like a 90s movie, short hair and romanticising environment. The man is standing against a solid wall with deep shadows and contrast drama, creating a mysterious and artistic atmosphere where the lighting is warm with golden tones evoking a sunset. Use the face from the uploaded reference image and preserve the same facial features — do not alter the face."
+    },
+    {
+        "id": 50,
+        "title": "Convertible Ride",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Convertible%20Ride.png",
+        "description": "A man sitting in a convertible car, looking away from the camera.",
+        "promptText": "A man sitting in a convertible car, looking away from the camera, wearing a blue shirt and white jeans, with a beard and a mustache."
+    },
+    {
+        "id": 51,
+        "title": "Retro Rose Portrait",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Retro%20Rose%20Portrait.png",
+        "description": "A full-body portrait of a handsome boy in a retro aesthetic shirt holding a single rose.",
+        "promptText": "A full-body, camera look-angle portrait of a handsome 22-year-old boy, approximately 5-5 tall. He is sitting on the ground in a stylish pose against a solid deep wine-colored wall, with deep shadows creating an 90s movie and romantic, windy environment. He is wearing a perfect red wine-colored, retro aesthetic shirt with matching pants and white sneakers. He has a silver watch and is holding a single rose flower in hand."
+    },
+    {
+        "id": 52,
+        "title": "Elevator Edge",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Elevator%20Edge.png",
+        "description": "A man in an all-black outfit standing casually in a modern style elevator.",
+        "promptText": "\"Edit the photo to be standing casually in a modern style elevator with reflective metal walls. He is wearing an all black outfit: a black suit and trousers, wearing sunglasses and holding a cup of take-away coffee. Elegant and edgy style with a mysterious feel. The dim lighting from the neon lights on the ceiling creates subtle shadows.\""
+    },
+    {
+        "id": 53,
+        "title": "Vintage Wall Rose",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Vintage%20Wall%20Rose.png",
+        "description": "A side-angle portrait of a handsome boy in a retro aesthetic shirt holding a single rose.",
+        "promptText": "A full-body, side-angle portrait of a handsome 25-year-old boy me(use my image for refrence with accurate face), approximately 5-5 tall. He is sitting on the ground in a stylish pose against a solid deep wine-colored wall, he is looking from left to right ahead with deep shadows creating a 90S movie and romantic, windy environment. He is wearing a perfect red wine-colored, retro aesthetic shirt with matching pants and white sneakers. He has a silver watch and is holding a single rose flower."
+    },
+    {
+        "id": 54,
+        "title": "Poster Wall Candid",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Poster%20Wall%20Candid.png",
+        "description": "A raw cinematic candid street photograph of a handsome man against a chaotic poster wall.",
+        "promptText": "i a raw cinematic candid street A photograph of a young Southeast Asian handsome man with a thin beard, 3 Herringbone 3-Piece Suit. He is standing, leaning his back casually against the chaotic poster wall, My expression is confident and neutral, and Behind him, the wall is fully plastered with overlapping vintage music posters, soft silhouette of an old wooden window casts warm golden hour light across the posters, creating creamy highlights and shadows. Beside him sits a lush pot o."
+    },
+    {
+        "id": 55,
+        "title": "70s Bollywood Classic",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/70s%20Bollywood%20Classic.png",
+        "description": "A vintage 1970s Bollywood-inspired photograph of a man sitting on the hood of a classic car.",
+        "promptText": "Create a vintage 1970s Bollywood-inspired photograph of a stylish men sitting casually on the hood of a classic car. he is dressed in a cream pinstriped blazer, cream bell-bottom trousers, & a dark brown shirt with the top buttons open, paired with brown formal shoes, giving a confident mafia-style look. The car has wide whitewall tires, chrome details, & a polished metallic body, reflecting sunlight. in the background, tall green trees and hedges frame the scene. The photograph has the warm"
+    },
+    {
+        "id": 56,
+        "title": "Gallery Overcoat",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Gallery%20Overcoat.png",
+        "description": "An 8K photorealistic black-and-white portrait of a young man in a long wool overcoat in a busy gallery.",
+        "promptText": "Ultra HD 8K photorealistic full-body editorial portrait, black-and-white, of a young man in a long tailored wool overcoat standing in a busy gallery — three-quarter profile, hands in pockets, looking directly at camera with a quiet confident gaze. Cinematic Rembrandt key light from camera-left with subtle rim/backlight to separate shoulder, razor-sharp focus on eyes and face, shallow depth of field that renders background frames softly."
+    },
+    {
+        "id": 57,
+        "title": "Burning News",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Burning%20News.png",
+        "description": "Cinematic editorial photograph of a person in a black suit holding up a burning newspaper.",
+        "promptText": "Cinematic editorial photograph of person holding up a burning newspaper, flames curling dramatically around paper edges. Newspaper headline reads bold text with modern typography, editorial style layout, featuring black and white images and quotes. Subject is dressed in sharp black suit. Dark background enhances fires glow, creating contrast with warm highlights on subjects clothing. Use the reference image for the face to maintain likeness. Ultra-detailed, high-contrast lighting, IMG_2034.CR2"
+    },
+    {
+        "id": 58,
+        "title": "Car in Flames",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Car%20in%20Flames.png",
+        "description": "Extreme low-angle cinematic shot of a man in the driver's seat of a vintage car engulfed in flames.",
+        "promptText": "Extreme low-angle cinematic shot of a man in the image, his skin luminous under the glow of firelight. Her hair is clean, well-maintained, and swept back naturally by the wind. He sits in the driver seat of a black vintage car engulfed in flames, fire violently consuming the hood and roof, while the driver door hangs open, and his one legs are outside the car with his feet on the asphalt."
+    },
+    {
+        "id": 59,
+        "title": "Attic Dreamscape",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Attic%20Dreamscape.png",
+        "description": "Fashion editorial cinematic portrait of a man in a fashionable costume in a dusky attic.",
+        "promptText": "Fashion editorial cinematic portrait, blurred silhouettes trailing foreground, Man Fashionable Costume,glowing in dusky attic atmosphere. Shot on Sony A7R V + 135mm f/1.8 lens, bokeh-heavy shallow depth. Lighting: soft window light + haze diffusion, warm amber prism glow. Background: wooden beams, diffused matte glass with vertical stripes. Styling: , messy loose bun. Editorial mood: Dazed magazine dreamscape. Keywords: cinematic dusky tones, lens flare, 3:4, tonal haze, art direction"
+    },
+    {
+        "id": 60,
+        "title": "Pigeon's Embrace",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Pigeon's%20Embrace.png",
+        "description": "A mysterious black-and-white cinematic portrait of a man surrounded by flying pigeons.",
+        "promptText": "A mysterious black-and-white cinematic portrait of a young slim body man in a long dark trench coat, surrounded by pigeons flying dramatically around him. Some pigeons fly very close to the camera, wings blurred in motion, others perch on his shoulder. His expression is serious and enigmatic, half of his face obscured by a pigeon in the foreground. Moody lighting with strong shadows and highlights, high-contrast monochrome film style, grainy analog texture, surreal mystical fashion"
+    },
+    {
+        "id": 61,
+        "title": "Motorcycle Lean",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Motorcycle%20Lean.png",
+        "description": "A black and white, full-length portrait of a rugged man leaning against a classic motorcycle.",
+        "promptText": "A black and white, full-length portrait features a rugged man with a beard and short, tousled hair, leaning against a classic-style motorcycle. He is wearing a dark, short-sleeved, collared shirt with buttons undone at the top, and light-colored ripped jeans. His left arm is casually resting on a dark motorcycle helmet placed on the seat of the bike, while his right hand is on his hand near his hip. He is looking at the camera with a contemplative expression."
+    },
+    {
+        "id": 62,
+        "title": "Golden Halo",
+        "category": "Women",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Golden%20Halo.png",
+        "description": "Moody studio portrait of a person bathed in a golden-orange spotlight creating a glowing halo.",
+        "promptText": "Prompt: moody studio portrait of the upload person, bethed in golden-orange spotlight that create glowing circular halo behind Thema on the wall. The warm light should sculpt the face and upper body with soft, sunset-like tones, while casting s strong head shadow to the right. Style the person. Her eye are closed and chin tilted slightly up"
+    },
+    {
+        "id": 63,
+        "title": "Sunset Muscle Car",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Sunset%20Muscle%20Car.png",
+        "description": "Ultra-realistic cinematic photo of a young man leaning against a vintage muscle car at sunset.",
+        "promptText": "Ultra-realistic cinematic photo using the exact same face from the uploaded reference image (keep 100% identical facial features and hairstyle). A stylish young man with curly hair and a trimmed beard, wearing a fitted black t-shirt, ripped black jeans, and black boots. He is leaning casually against a sleek black vintage muscle car parked on a winding mountain road. The background shows dramatic mountain silhouettes under a warm golden sunset sky. The mood is cinematic, moody, and atmospheric with soft golden-hour lighting. 4K, high detail."
+    },
+    {
+        "id": 64,
+        "title": "White Suit Bouquet",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/White%20Suit%20Bouquet.png",
+        "description": "Retro vintage image of a man in a white suit holding a flower bouquet.",
+        "promptText": "Create a retro vintage grainy but bright image of the reference picture but draped in a perfect white colour suit, Pinteresty aesthetic retro pants. It must feel like a 90s movie hair baddie with a small flower bouquet in hand and romanticising a windy environment. The man is standing against a solid deep shadow and contrast drama, creating a mysterious and artistic atmosphere where the lighting is warm with golden tones evoking a sunset or golden hour glow. The background is minimalist."
+    },
+    {
+        "id": 65,
+        "title": "London Night Call",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/London%20Night%20Call.png",
+        "description": "A man in a dark hoodie leaning against a British telephone booth at night.",
+        "promptText": "A young man in a dark hoodie, dark pants, and light sneakers, leaning against a classic black British telephone booth on a city street at night. He is looking at his phone. To the right, vibrant long exposure light trails of red and blue streak horizontally across the frame, indicating fast-moving vehicles. In the background, the dome of a building (St. Pauls Cathedral style) is faintly visible. The scene has a cool, desaturated blue-gray color tone with deep shadows, starkly contrasted by the light trails."
+    },
+    {
+        "id": 66,
+        "title": "Demonic Whisper",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Demonic%20Whisper.png",
+        "description": "A cinematic horror portrait of a man with a lighter and a demonic face whispering in his ear.",
+        "promptText": "A cinematic horror portrait of [insert man's profile photo]. The man holds a lit lighter close to his face, the flame casting dramatic orange and blue light across his sweaty skin. His expression is tense, staring directly forward. Behind him, in the darkness, a sinister demonic face whispers into his ear, half-hidden in the shadows, with grotesque textures and glowing red tones. [Chatgpt, Copilot, Gemini Ai, Horror, Dark]"
+    },
+    {
+        "id": 67,
+        "title": "Thoughtful Rose",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Thoughtful%20Rose.png",
+        "description": "A stylish, thoughtful young man with a single red rose tucked into his clothing.",
+        "promptText": "A stylish young man, looking thoughtful, with warm, dramatic lighting creating strong shadows on a textured background. He wearing a slightly unbuttoned collared shirt and tailored trousers, with a single red rose tucked into"
+    },
+    {
+        "id": 68,
+        "title": "Split-Light Profile",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Split-Light%20Profile.png",
+        "description": "A high-resolution, cinematic close-up profile portrait of a man with dramatic split-lighting.",
+        "promptText": "A high-resolution, cinematic, and photorealistic close-up profile tall vertical portrait of a man. The image features dramatic split-lighting with a vibrant, glowing red light illuminating the top of his face and a contrasting,"
+    },
+    {
+        "id": 69,
+        "title": "Lounge Authority",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Lounge%20Authority.png",
+        "description": "A cinematic low-light portrait of a man on a couch with a cigar and whiskey.",
+        "promptText": "A cinematic low-light portrait of a South Asian man lounging on a couch, wearing an open button silk shirt, layered necklace. He holds a cigar in one hand and a crystal glass of whiskey in the other. Warm golden light highlights the smoke around him, while the background stays dark and moody. Expression, exuding power and calm authority. Ultra photorealistic, cinematic shadows, 8K quality."
+    },
+    {
+        "id": 70,
+        "title": "Water Droplets Portrait",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Water%20Droplets%20Portrait.png",
+        "description": "A top-angle, close-up black and white portrait of a man's face with water droplets.",
+        "promptText": "Please generate a top-angle and close-up black and white portrait of my face, focused on the head facing forward. Use a 35mm lens look, 10.7K 4HD quality. Proud expression, waterdroplets on my face. Deep blackshadow background - only the face"
+    },
+    {
+        "id": 71,
+        "title": "Confident in Blue Suit",
+        "category": "Women",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Confident%20in%20Blue%20Suit.png",
+        "description": "Hyper-realistic cinematic portrait of a woman in an oversized slate-blue luxury suit.",
+        "promptText": "A hyper-realistic cinematic editorial portrait of the uploaded person (preserve face 100%). She stands tall in a dark moody studio,surrounded by soft drifting smoke under a dramatic spotlight.Outfit:Oversized slate-blue luxury suit with wide-leg trousers, paired with a slightly unbuttoned white silk shirt. Both hands tucked casually in pockets, shoulders relaxed, confident expression, head tilted slightly upward."
+    },
+    {
+        "id": 72,
+        "title": "Snowy Winter Embrace",
+        "category": "Couples",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Snowy%20Winter%20Embrace.png",
+        "description": "A romantic couple sitting together on a snowy winter day in a serene forest.",
+        "promptText": "Keeping my face straight. We are romantic couple sitting together on a snowy winter day, the woman sitting on the man lap while they embrace lovingly. They are outdoors in a serene forest with snow-covered trees and glowing blue flowers around them. Snowflakes gently falling, soft dreamy atmosphere, cinematic photography, high detail, natural light, cozy romantic mood."
+    },
+    {
+        "id": 73,
+        "title": "Golden Hour Gaze",
+        "category": "Couples",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Golden%20Hour%20Gaze.png",
+        "description": "A dreamy, bohemian-style portrait of a young couple during golden hour.",
+        "promptText": "A dreamy, bohemian-style portrait of a young couple during golden hour. The man, wearing a light linen shirt unbuttoned slightly and a beaded necklace, gently holds the woman jawline as his other hand rests on her lower back. She wears a flowy off-shoulder beige dress with floral embroidery, gold hoop earrings, and minimal makeup. They share a quiet, emotional gaze under a warm sunset glow, with tall grass and wildflowers in the blurred background. Cinematic tones, Canon R6 with 85mm."
+    },
+    {
+        "id": 74,
+        "title": "90s Retro Couple",
+        "category": "Couples",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/90s%20Retro%20Couple.png",
+        "description": "Retro vintage grainy image of a couple in a 90s movie aesthetic.",
+        "promptText": "Create a retro vintage grainy but bright mage of the reference picture but draped in perfect brown Pinteresty aesthetic retro saree for girl and suite for boy. It must feel like a 90s movie brown hair baddie with A small ower tuck visibly in the curls and windy environment romanticising for girl. The girl nd boy is standing against a solid wall deep shadows and contrast drama, creating a hysterious and artistic atmosphere."
+    },
+    {
+        "id": 75,
+        "title": "Bali Garden Swing",
+        "category": "Couples",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Bali%20Garden%20Swing.png",
+        "description": "A romantic couple photoshoot in a luxury Bali resort garden with the girl on a swing.",
+        "promptText": "A beautiful romantic couple photoshoot in a luxury Bali resort garden. Behind them a breathtaking Bali nature view with flowers and greenery. A decorative floral swing is placed, the girl wearing a gorgeous colorful lehenga is sitting on the swing smiling happily. The boy in a stylish white shirt and pants is standing behind, gently pushing the swing. Bright natural lighting, cinematic photography, dreamy vacation vibes, vibrant colors, realistic and elegant style."
+    },
+    {
+        "id": 76,
+        "title": "Cozy Mirror Selfie",
+        "category": "Couples",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Cozy%20Mirror%20Selfie.png",
+        "description": "A happy young couple in matching cream sweaters taking a mirror selfie.",
+        "promptText": "A happy young couple standing indoors, taking a mirror selfie together. Both are wearing matching cream-colored knitted sweaters. The man is standing behind the woman, smiling, with his arms wrapped around her waist. The woman is holding a modern smartphone (iPhone) in one hand and smiling warmly at the mirror. The background shows a cozy, minimalistic home interior with a potted plant and a small shelf."
+    },
+    {
+        "id": 77,
+        "title": "Red Saree & Black Suit",
+        "category": "Couples",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Red%20Saree%20&%20Black%20Suit.png",
+        "description": "Retro vintage image of a couple in a red saree and black suit with a 90s movie feel.",
+        "promptText": "Create a retro vintage grainy but bright image of the reference picture but draped in a perfect red saree for girl and black suit for boy. It must feel like a 90s movie brown hair baddie with a small flower tuck visibly in the wavy curls and windy environment romanticising for girl. The girl and boy is standing against the solid wall deep shadows and contrast drama, creating a mysterious and artistic atmosphere. This boy and girl on romantic mood"
+    },
+    {
+        "id": 78,
+        "title": "Polaroid Moment",
+        "category": "Couples",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Polaroid%20Moment.png",
+        "description": "A candid Polaroid-style shot of two people with slight motion blur and camera flash.",
+        "promptText": "Make this image of two people look like it was taken with a Polaroid camera. There should be no obvious subjects or props. It should look like a random shot captured by chance. The image should appear like a snapshot without any special attention. Include a slight motion blur and light from the camera flash in a dark area that spreads evenly throughout the photo. Dont distort the face. Change the background behind the two people to a white curtain. The guy should be touching my face."
+    },
+    {
+        "id": 79,
+        "title": "Elegant Brown Attire",
+        "category": "Couples",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Elegant%20Brown%20Attire.png",
+        "description": "An ultra-realistic 8K portrait of a couple in a brown suit and silky brown gown with a 90s retro aesthetic.",
+        "promptText": "An ultra-realistic 8K portrait of a young couple seated closely together, both gazing directly at the camera with confident expressions. The man is dressed in a tailored brown suit with a crisp white shirt and a classic black bow tie, exuding timeless sophistication. The woman wears a silky brown gown with a deep neckline, draped fabric, and pearl-beaded straps running down the side slit, paired with delicate lace-up brown high heels. Her long hair flows in soft waves, styled in a natural, glamorous retro look, while her earrings add a subtle sparkle. The man sits upright in a wooden chair, one hand resting naturally while the other gently supports the woman, ensuring realistic human hands without distortion. The woman sits elegantly on his lap, one leg crossed forward, her posture confident yet graceful. Their skin tones and textures appear natural, detailed, and lifelike with subtle highlights. No extra heads, elements, or third persons are visible in the frame. The background evokes a 90s retro aesthetic with warm golden sunlight casting soft shadows, creating a cinematic glow. The overall composition radiates intimacy, charm, and vintage elegance, perfectly blending modern realism with retro style."
+    },
+    {
+        "id": 80,
+        "title": "Snowy Forest Romance",
+        "category": "Couples",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Snowy%20Forest%20Romance.png",
+        "description": "A romantic winter scene of a couple sitting on a snow-covered log in a snowy forest.",
+        "promptText": "A romantic winter scene featuring a young couple sitting on a snow-covered log in a serene snowy forest. The man, dressed in a black sleeveless shirt and black pants, lovingly holds the woman, who is wearing a gray sleeveless top, blue jeans, and white sneakers. Snowflakes gently fall around them, while glowing blue flowers adorn the surrounding trees, adding a magical touch. The frozen lake and snow-covered landscape in the background enhance the dreamy, cozy, and intimate atmosphere."
+    },
+    {
+        "id": 81,
+        "title": "Little Gentleman with Roses",
+        "category": "Kids",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Little%20Gentleman%20with%20Roses.png",
+        "description": "A retro, vintage-inspired image of a kid in a black suit holding red roses.",
+        "promptText": "Take the face from the attached reference photo exactly 100% the same (do not alter his facial features, keep his identity intact). He is a kid. Create a retro, vintage-inspired, grainy yet bright image where the boy is dressed in a perfect black suit with Pinterest-style retro pants. The mood should feel like a 90s movie hair baddie. He holds a bunch of red roses in one hand while the other hand rests in his pocket, romanticizing a windy environment. The young boy stands against a solid deep shadow with dramatic contrast, evoking mystery and artistry. The lighting must be warm and golden, resembling a sunset or golden hour glow."
+    },
+    {
+        "id": 82,
+        "title": "Stylish Kid in White",
+        "category": "Kids",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Stylish%20Kid%20in%20White.png",
+        "description": "A stylish kid in a sleek, all-white outfit posing confidently against a white house.",
+        "promptText": "Take the face from the attached photo , same 100% same , he is a kid  A stylish kid in a sleek, all-white outfit poses confidently against a pitch-white house background. He wears a tailored white suit, a white shirt with the top buttons open, and a subtle silver chain around his neck. He sports white sunglasses , exuding charisma and mystery. A luxury wristwatch glints on his left wrist. The lighting is dramatic, highlighting his facial features and casting soft shadows, creating a bold, high-fashion editorial look."
+    },
+    {
+        "id": 83,
+        "title": "Young Traveler",
+        "category": "Kids",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Young%20Traveler.png",
+        "description": "A stylish kid leaning casually against a vintage suitcase with an elegant, retro-inspired aesthetic.",
+        "promptText": "Take the face from the attached photo , same 100% same , he is a kid A stylish kid, facial will be the same as the reference image, with sharp features and dark tousled hair parted naturally. He is leaning casually against a vintage suitcase. He wears a textured brown blazer over an open-collar dark brown shirt, slightly unbuttoned at the top, paired with high-waisted light beige pleated trousers and a dark belt. The aesthetic is elegant and retro-inspired, with earthy tones. Minimalistic indoor background, cinematic warm natural lighting"
+    },
+    {
+        "id": 84,
+        "title": "70s Bollywood Glamour",
+        "category": "Women",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/70s%20Bollywood%20Glamour.png",
+        "description": "A vintage Indian woman portrait from the 1970s, styled in traditional Bollywood fashion.",
+        "promptText": "Take the face from the attached reference photo exactly 100% the same (do not alter her facial features, keep her identity intact). A vintage Indian woman portrait from the 1970s, styled in traditional Bollywood fashion. She has long, voluminous black hair adorned with two red roses tucked behind her ear. A bold black bindi sits on her forehead, and her large expressive eyes are highlighted with dramatic winged eyeliner. She wears heavy golden jhumka earrings and a delicate gold necklace. Her outfit is a saree in shades of black and purple with floral designs, paired with multiple bangles in gold, black, and purple. The woman’s pose is graceful, with her chin resting gently on her clasped hands, exuding elegance and charm. The background is soft and neutral, enhancing the retro aesthetic and focusing attention on her face and attire. The overall mood is glamorous, classic, and reminiscent of old Bollywood cinema posters."
+    },
+    {
+        "id": 85,
+        "title": "Denim on Chair",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Denim%20on%20Chair.png",
+        "description": "A black-and-white studio photo of a young man sitting casually on a metal folding chair.",
+        "promptText": "Take the face from the attached reference photo exactly 100% the same (do not alter his facial features, keep his identity intact). Create a black-and-white studio photo featuring a young man sitting casually on a metal folding chair with his legs crossed. He is wearing a denim jacket, a dark t-shirt, straight jeans, and black boots. The lighting is soft and minimal, producing sharp shadows and a moody atmosphere. His body pose is relaxed, slightly leaning back with one hand on the chair’s armrest, his face turned to the side."
+    },
+    {
+        "id": 86,
+        "title": "Field of Sound",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Field%20of%20Sound.png",
+        "description": "A cinematic photograph of a young man with headphones in a lush green field.",
+        "promptText": "Take the face from the attached reference photo exactly 100% the same (do not alter his facial features, keep his identity intact). A cinematic, moody photograph of a young man standing in a lush green field of tall grass under a cloudy, overcast sky. He is wearing a loose, dark button-up shirt and dark trousers. His posture is expressive and dramatic, leaning slightly backward with one arm outstretched and palm open, as if embracing the wind or the moment. His head is tilted back, eyes closed, and he is wearing large, over-ear silver headphones, giving a sense of calm and emotional release. The perspective is slightly low-angle, enhancing the dramatic, immersive atmosphere."
+    },
+    {
+        "id": 87,
+        "title": "Window Shadows",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Window%20Shadows.png",
+        "description": "A black-and-white aesthetic portrait of a man sitting on the floor with dramatic window shadows.",
+        "promptText": "Use my image with the face kept 100% accurate, exactly the same (do not alter my facial features, keep my identity intact). Create a black-and-white aesthetic portrait of me sitting on the floor in dramatic lighting. I am wearing an oversized dark coat. My pose is emotional and introspective, with one hand near my mouth and my head slightly turned to the side. Shadows from a window fall across the wall behind me, creating a moody and artistic atmosphere. The overall vibe is mysterious, emotional, and cinematic."
+    },
+    {
+        "id": 88,
+        "title": "Smoky Studio Vibe",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Smoky%20Studio%20Vibe.png",
+        "description": "A cool young man sitting on a wooden crate in a smoky studio.",
+        "promptText": "Take the face from the uploaded reference photo exactly 100% the same (do not alter his facial features, keep his identity intact). Create a cool young man with wavy, vintage-style hair, clean-cut look, wearing a white t-shirt and light-colored jeans. He is sitting comfortably on a wooden crate, looking to the right while holding a denim jacket. The background features a smoky blue-and-red effect blended into a bright black studio scene, creating a dramatic and stylish atmosphere."
+    },
+    {
+        "id": 89,
+        "title": "Modern Café Elegance",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Modern%20Cage%20Elegnance.png",
+        "description": "A high-fashion lifestyle editorial portrait of an elegant Indian man in a modern cafe.",
+        "promptText": "Use the attached image of the person as the sole facial and hairstyle reference, keeping the exact same face, hairstyle, and overall appearance as in the reference image with a realistic and natural look. Create a high-fashion lifestyle editorial portrait of a 20-year-old Indian man, elegant and sophisticated, sitting on a wooden chair in a modern cafe. He holds a white coffee cup in both hands in a refined gesture, exuding confidence and charm. He is wearing a structured white shirt with a white blazer casually draped over the shoulders, paired with wide-cut jeans. Accessories include rectangular sunglasses with gold details, a luxury gold watch, and a bold statement ring. His skin should appear natural, youthful, and glowing with soft highlights. The background is an elegant cafe environment, softly blurred to emphasize the subject. The lighting is soft, warm, and natural, illuminating the face and reflecting off the gold accessories to create a luxurious glow. His body posture is slightly leaning forward, evoking sophistication, elegance, and presence."
+    },
+    {
+        "id": 90,
+        "title": "Fisheye City Night",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Fisheye%20City%20Night.png",
+        "description": "A vintage-style flash photograph of a stylish man on a city street with a fisheye lens effect.",
+        "promptText": "Generate a vertical 9:16 high-resolution 8K vintage-style flash photograph entirely based on the uploaded reference photo, keeping the exact same face, hairstyle, and overall appearance of the subject with no changes. The image should depict a stylish white man standing confidently on a nighttime city street, captured with dramatic fisheye lens distortion. Apply subtle grain, light film scratches, and analog texture effects to achieve a nostalgic yet editorial feel. He is wearing an abstract red shirt with bold, expressive artistic patterns, partially unbuttoned to reveal a confident, edgy demeanor. Chunky metallic jewelry and fashionable sunglasses enhance his striking streetwear aesthetic. The city backdrop should be softened and transformed with cozy home party vibes—glowing red ambient lighting, delicate string lights hanging above, and a warm, intimate atmosphere that blends festivity with the urban night scene. Skin texture must look flawless and realistic, with dramatic lighting, soft shadows, and lens flash reflections for depth. Ensure no distortions, no anatomical flaws. Maintain all the characteristics of the main character from the uploaded photo while elevating the image into a cinematic, editorial-quality portrait."
+    },
+    {
+        "id": 91,
+        "title": "Wicker Chair Lounge",
+        "category": "Men",
+        "image": "https://vignan.blr1.cdn.digitaloceanspaces.com/prompts/Wicker%20Chair%20Lounge.png",
+        "description": "A hyper-realistic cinematic lifestyle portrait of a stylish Indian man lounging on a modern hanging wicker chair.",
+        "promptText": "Create a hyper-realistic cinematic lifestyle portrait entirely based on the uploaded reference photo, keeping the exact same face, hairstyle, and overall appearance with no alterations. A stylish young Indian man lounges confidently on a modern hanging wicker chair, dressed in a trendy all-white coord set with a casual T-shirt and open shirt, paired with colorful designer sneakers and a luxury wristwatch. His expression is cool and composed as he slightly leans back with a relaxed posture, wearing dark sunglasses that add charisma to his look. The setting is a minimal outdoor terrace with subtle decor, soft natural daylight, and a clean modern vibe. Captured in ultra-detailed 8K resolution with sharp textures, natural skin tones, realistic shadows, and a premium fashion editorial aesthetic."
+    }
 ]
