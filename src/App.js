@@ -71,10 +71,10 @@ function App() {
   return (
     <div className={`${isDarkMode ? 'bg-black' : 'bg-white'} min-h-screen transition-colors duration-300`}>
       <Helmet>
-        <title>Gemini Prompts Vault - AI Image Generation Prompts</title>
+        <title>Image Prompts - AI Image Generation Prompts</title>
         <meta name="description" content="Discover and copy high-quality AI prompts for image generation. Perfect for Gemini, DALL-E, Midjourney, and other AI tools." />
         <meta name="keywords" content="AI prompts, image generation, Gemini, DALL-E, Midjourney, artificial intelligence, creative prompts" />
-        <meta property="og:title" content="Gemini Prompts Vault - AI Image Generation Prompts" />
+        <meta property="og:title" content="Image Prompts - AI Image Generation Prompts" />
         <meta property="og:description" content="Discover and copy high-quality AI prompts for image generation." />
         <meta property="og:type" content="website" />
       </Helmet>
